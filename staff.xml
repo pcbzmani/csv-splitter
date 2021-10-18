@@ -1,0 +1,18 @@
+<staff>
+    <details>
+		<staffid>36656</staffid>
+        <firstname>Mike</firstname>
+        <lastname>Parick</lastname>
+        <department>Developer</department>
+        <salary>5000.55</salary>
+        <supervisor>89569</supervisor>
+    </details>
+    <details>
+		<staffid>36686</staffid>
+        <firstname>Kalies</firstname>
+        <lastname>Raju</lastname>
+        <department>Tester</department>
+        <salary>5550.55</salary>
+        <supervisor>36656</supervisor>
+    </details>
+</staff>
